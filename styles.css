@@ -1,0 +1,58 @@
+body{
+    background-color:gray;
+}
+.mynav{
+    
+    display:yellow;
+    background: #8B0000;
+    width:80%;
+    height: 60px;
+    opacity: 0.6;
+    line-height: 2;
+}
+.mynav ul{list-style: none;}
+.mynav li{display: inline;}
+.mynav li a {color: yellow;
+text-align: center;
+padding: 20px 22px 20px 22px;
+text-decoration: none;
+}
+#myimg1 { float: right;
+width: 20%;}
+#myimg2{float: left;}
+#myimg{width: 100%;}
+.est{position: absolute;
+    text-align: center;
+line-height: 1.6;
+bottom: 50px;
+background-color: #A9A9A9;
+margin-right: 50%;
+margin-bottom: 10%;}
+
+.est2{background-color: tomato;
+    border: 5px yellow;
+line-height: 1.6;
+text-align: center;
+padding: 2%;
+}
+
+iframe{margin-left: 400px;
+margin-top: 100px;
+margin-bottom: 200px;
+
+}
+#resume > input,label{display: inline;}
+
+input[type="text"] , [type="date"] , [type="email"] {width: 100%;
+     padding: 15px;
+     margin: 5px0px5px0px;
+     background-color: violet; }
+     .btn {text-align: center;
+        width: 50%;
+        background-color: yellowgreen;
+        padding: 10px;
+        opacity: 0.8;
+        border: none;
+        border-radius: 10px;
+      }
+      #myimg3{border: 10px solid goldenrod; box-shadow: 0px0px17px black;}
